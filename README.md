@@ -20,16 +20,15 @@ In **RetinaNet**, an one-stage detector, by using **focal loss, lower loss** is 
 <li>SSD: ~8–26k</li>
 <li>RetinaNet: ~100k.</li>
   </ol>
-  
   <br/>
   <br/>
-  In this model i used **COCO DATASET** to train our model
-  **COCO MODEL** 
+In this model i have used <b>COCO DATASET</b> to train our model
+ 
   <br/>
-  The **Common Objects in Context (COCO)** dataset has **200,000 images** with more than **500,000** object annotations in 80 categories. It is the most extensive publicly available object detection database. The average number of objects is **7.2 per image**. 
+  The Common Objects in Context (COCO) dataset has <b>200,000 images</b>  with more than <b>500,000</b>  object annotations in 80 categories. It is the most extensive publicly available object detection database. The average number of objects is <b>7.2 per image</b> .
   <br/><br/>
-### OUTPUT
+<b>OUTPUT</b> 
   <img src="traffic_imagenew.jpg"/><br/>
-
+ <b>img:Passenger movie</b> 
   
   
