@@ -31,7 +31,7 @@ In **RetinaNet**, an one-stage detector, by using **focal loss, lower loss** is 
 ### OUTPUT
   <img src="traffic_imagenew.jpg"/><br/>
   <video width="320" height="240" autoplay>
-  <source src="camera_detected_video.avi" type="video/avi" >
+  <source src="camera_detected_video.avi"  >
  
 </video>
   
