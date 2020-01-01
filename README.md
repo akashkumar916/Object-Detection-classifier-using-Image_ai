@@ -22,9 +22,7 @@ In **RetinaNet**, an one-stage detector, by using **focal loss, lower loss** is 
   </ol>
   <br/>
   <br/>
-In this model i have used <b>COCO DATASET</b> to train our model
- 
-  <br/>
+In this model i have used <b>COCO DATASET</b> to train our model<br/> <br/>
   The Common Objects in Context (COCO) dataset has <b>200,000 images</b>  with more than <b>500,000</b>  object annotations in 80 categories. It is the most extensive publicly available object detection database. The average number of objects is <b>7.2 per image</b> .
   <br/><br/>
 <b>OUTPUT</b> 
